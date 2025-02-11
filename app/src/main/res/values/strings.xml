@@ -2,4 +2,7 @@
     <string name="app_name">Business Card App</string>
     <string name="brand_name">John Doe</string>
     <string name="android_developer_extraordinaire">Android Developer Extraordinaire</string>
+    <string name="phone_number">☎ (123) 456 – 7890</string>
+    <string name="twitter_handle">🔗 @AndroidRocks</string>
+    <string name="email_address">✉ john.doe@androidrocks.com</string>
 </resources>

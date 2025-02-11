@@ -100,19 +100,19 @@ fun Contact(
     ) {
         Row {
             Text(
-                text = "\u260E (123) 456 - 7890",
+                text = stringResource(R.string.phone_number),
                 fontSize = 24.sp
             )
         }
         Row {
             Text(
-                text = "\uD83D\uDD17 @AndroidRocks",
+                text = stringResource(R.string.twitter_handle),
                 fontSize = 24.sp
             )
         }
         Row {
             Text(
-                text = "\u2709 john.doe@androidrocks.com",
+                text = stringResource(R.string.email_address),
                 fontSize = 24.sp
             )
         }
