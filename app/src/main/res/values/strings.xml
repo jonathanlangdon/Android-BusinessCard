@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Business Card App</string>
+    <string name="brand_name">John Doe</string>
+    <string name="android_developer_extraordinaire">Android Developer Extraordinaire</string>
 </resources>
